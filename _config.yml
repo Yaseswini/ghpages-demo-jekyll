@@ -1,0 +1,11 @@
+# basic options
+title: GBLab
+author: Yaseswini
+email: yaseswini.1404@gmail.com
+description: Welcome to garret-bakelman lab website
+twitter_username: dont know
+github_username:  Yaseswini
+
+# Build settings
+markdown: kramdown
+theme: minima
